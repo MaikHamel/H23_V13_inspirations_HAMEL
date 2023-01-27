@@ -4,7 +4,7 @@
 
 # Intérets dans le domaine du multimédia:
 
-Mes intérets dans le domaine du multimédia sont variés, mais, ce que j'aime le plus est le dessin numérique. 
+Mes intérets dans le domaine du multimédia sont variés, mais, mon coup de coeur est le dessin numérique. 
 
 
 
