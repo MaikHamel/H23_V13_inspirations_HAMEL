@@ -36,6 +36,27 @@ BIAN 6 Mutation
   ### Année de réalisation :
   2021
   
+  ### Description de l'oeuvre :
+  Retina est une exposition cinématographique démontrant comment le cerveau peut capter son environnement avec l’œil. L’œuvre démontre qu’avec l’œil, il est possible au cerveau de recevoir le codage et la transmission de la  lumière. 
+  
+  ![image](media/BIAN_retina_description.jpg)
+  ![image](media/BIAN_retina_vue_cote.jpg)
+  ![image](media/BIAN_retina_vue_ensemble.jpg)
+  
+  
+  ### Type d'installation :
+  Installation comtemplative 
+  ![image](media/BIAN_retina_vue_ensemble.jpg)
+  
+  ### Mise en espace :
+  L'oeuvre est situé dans une piece ouverte ( encadré par des rideaux). Cette oeuvre prend toute la place de la piece puisque le projecteur et l'ecran doivent être éloigné pour que les projections puissent éclairer l'écran. L'écran était situé dans un mur au fond, accompagné des haut-parleur qui étaient au sol, et les projections (projecteur et laser) se situaient au milieu de la pièce.
+  
+  *pour la vue d'emsemble voir la photo précedente* 
+  ![image](media/BIAN_retina_plan.jpg)
+  
+  
+  
+  
   
   
   
