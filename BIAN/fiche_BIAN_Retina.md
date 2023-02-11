@@ -54,6 +54,8 @@ BIAN 6 Mutation
   *pour la vue d'emsemble voir la photo précedente* 
   ![image](media/BIAN_retina_plan.jpg)
   
+  ### Composantes 
+  
   
   
   
