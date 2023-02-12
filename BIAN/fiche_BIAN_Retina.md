@@ -54,7 +54,11 @@ BIAN 6 Mutation
   *pour la vue d'emsemble voir la photo précedente* 
   ![image](media/BIAN_retina_plan.jpg)
   
-  ### Composantes 
+  ### Composantes et techniques:
+  coposantes:
+  * Le projet vidéo (est dans un disque dur externe ou dans un autre objet qui peux garder l'information)
+  * laser
+  * projecteur
   
   
   
