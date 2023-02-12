@@ -57,8 +57,17 @@ BIAN 6 Mutation
   ### Composantes et techniques:
   coposantes:
   * Le projet vidéo (est dans un disque dur externe ou dans un autre objet qui peux garder l'information)
-  * laser
-  * projecteur
+  * Laser
+  * Projecteur
+  
+  ![image](media/BIAN_retina_installation.jpg)
+  
+  ### Élements nécéssaires à la mise en exposition :
+  * Écran 
+  * Projecteur 
+  * Laser 
+  * Haut-parleurs
+  *
   
   
   
