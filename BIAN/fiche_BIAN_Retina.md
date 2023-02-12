@@ -45,7 +45,8 @@ BIAN 6 Mutation
   
   
   ### Type d'installation :
-  Installation comtemplative 
+  Installation comtemplative
+  
   ![image](media/BIAN_retina_vue_ensemble.jpg)
   
   ### Mise en espace :
@@ -82,7 +83,7 @@ BIAN 6 Mutation
   ### Ce qui vous a plus, vous a donné des idées :
   Ce qui m’a plu le plus est l’œuvre  Retina est la lumière et le son puisque le but de l’œuvre est de pouvoir représenter l’œil et cela a fonctionné puisque j’ai choisit l’œuvre. Puisqu'il est facile pour moi de comprendre les émotions et de les ressentir, il y avait plusieurs moments quo ont étés cherché mes émotions, comme la fin puisque le son était fort et les images et la lumière du laser beougait rapidement sur l'écran. L'oeuvre m'a donné beaucoup d'idées sur les jeux de lumière ( pour faire en sorte que les visiteurs soient attirées) avec la vidéo et des projecteurs. 
   
-  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :
+ ### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement :
   Personnellement il n’y a pas beaucoup de chose qui ne m’a pas plus puisque j’adore le multimédia et la majorité des œuvres étaient liée au multimédia.
   
   
