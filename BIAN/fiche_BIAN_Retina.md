@@ -6,6 +6,7 @@
 BIAN 6 Mutation
 
   ![image](media/BIAN_retina_entre.jpg)
+  
   *(Photo prise par Jérémy Roy-côté)*
   
   
@@ -17,6 +18,7 @@ BIAN 6 Mutation
   Arsenal art contemporain (Montréal) 
   
   ![image](media/BIAN_retina_groupe.jpg)
+  
   *(Photo prise par Khaly Tia Sing)*
   
   
