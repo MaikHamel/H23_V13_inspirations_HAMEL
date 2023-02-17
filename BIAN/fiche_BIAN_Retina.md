@@ -76,7 +76,6 @@ BIAN 6 Mutation
   ![image](media/BIAN_retina_haut-parleur.jpg)
   ![image](media/BIAN_retina_vue_cote.jpg)
   ![image](media/BIAN_retina_installation.jpg)
-  ![image](media/BIAN_retina_haut-parleur.jpg)
   ![image](media/BIAN_retina_vue_ensemble.jpg)
   
   ### Expérience vécue :
