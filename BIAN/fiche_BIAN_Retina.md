@@ -77,6 +77,7 @@ BIAN 6 Mutation
   ![image](media/BIAN_retina_vue_cote.jpg)
   ![image](media/BIAN_retina_installation.jpg)
   ![image](media/BIAN_retina_vue_ensemble.jpg)
+  *(image pour montrer les rideaux)*
   
   ### Expérience vécue :
   Pour cette oeuvre, le visiteur est libre de se positionner dans la pièce. Celui-ci peut rester debout ou s'asseoir sur un banc pour pouvoir regarder l'écran devant celui-ci. Puisque l'écran est positionné dans le fond de la pièce, le visiteur peut se rapprocher ou se distancer de l'écran. Puisque l'oeuvre est une vidéo qui as pour but d'attirer l'oeil, l'interracteur s'attend à divertir le vissiteur et le visiteur s'attend a être diverti par la vidéo. L'oeuvre m'a fait vivre plein d'émotions, du début jusqu'a la fin. Il y avait des moment ou l'écran était noir et l'ambiance était calme et des moment ou tout se déroulait rapidement, ce qui donnait plus de suspence et démotions à la vidéo.
