@@ -46,9 +46,10 @@ BIAN 6 Mutation
   
   
   ### Type d'installation :
-  Installation comtemplative
+  Installation comtemplative 
   
   ![image](media/BIAN_retina_vue_ensemble.jpg)
+ *(On peut comprendre, avec la photo, que l'oeuvre est comtemplative puisque l'audiance regarde un écran.)*
   
   ### Mise en espace :
   L'oeuvre est situé dans une piece ouverte ( encadré par des rideaux). Cette oeuvre prend toute la place de la piece puisque le projecteur et l'ecran doivent être éloigné pour que les projections puissent éclairer l'écran. L'écran était situé dans un mur au fond, accompagné des haut-parleur qui étaient au sol, et les projections (projecteur et laser) se situaient au milieu de la pièce. La pièce mesurait environ 5m de large par 10m de long.
@@ -74,7 +75,7 @@ BIAN 6 Mutation
   
   ![image](media/BIAN_retina_haut-parleur.jpg)
   ![image](media/BIAN_retina_vue_cote.jpg)
-  ![image](media/BIAN_installation.jpg)
+  ![image](media/BIAN_retina_installation.jpg)
   ![image](media/BIAN_retina_haut-parleur.jpg)
   ![image](media/BIAN_retina_vue_ensemble.jpg)
   
