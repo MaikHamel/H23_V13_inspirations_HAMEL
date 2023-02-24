@@ -2,5 +2,6 @@
 
 
 ce dossier contient les documentations :
+ * semaine 1
  * BIAN 
  * Mycélium
