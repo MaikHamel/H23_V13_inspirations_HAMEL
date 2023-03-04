@@ -105,7 +105,7 @@ Personnellement, lors de l'exposition, je pense que je vais être ipressionné, 
 
 Mon projet préféré est Edria puisque le concept était original et le lien avec le thème était comprennable. J'ai aussi aimé la démonstration du projet, la manière dont la musique et les lumières s'activent lorsque les capteurs sont activés. Le projet que j'ai mis en dernier est Zordie-Gal puisque je ne voyait pas de lien avec le thème. Cependant, les dessins était très beau et le concept, pour un jeu vidéo, était original.
 
-### composante technique choisie : Capteur TOF 
+### composante technique choisie : Capteur TOF ( Temps de Vol ) 
 
 
 
