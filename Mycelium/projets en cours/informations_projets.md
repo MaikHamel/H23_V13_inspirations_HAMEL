@@ -54,7 +54,7 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
  ### description de l'installation en cours : 
  Il y avaix une lignée de lumiere qui etait  posé sur deux chaises. Les lumieres étaient connecté a un ordinateur qui créait les animation des lumières.  Il y avait    des haut-parleurs qui étaient posé sur des chaises qui produiront une musique d'ambiance.
  
- ### émotion ressenti lors de l'exposition :
+![images](media/Mycelium_Nexum_Installation.jpg)
 
 
 ## Projet 4 : Zordiegal
