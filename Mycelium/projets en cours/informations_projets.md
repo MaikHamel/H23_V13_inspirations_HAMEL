@@ -31,7 +31,10 @@ Le but de l'installation est de demontrer le liens entre les humains et l'espace
 ### description de l'installation en cours :
 Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaient décoré par des plantes et des projecteurs. La poutre du milieu contenait des capteurs TOF qui étaient lié aux lumieres et au ordinateurs. Lorsque les gens se placaient devant les capteurs, les lumieres et de la musique était décllanché. Lorsque les capteurs n'etaient pas déclanchés, il y avait des animations de fond.
 
-
+![images](media/Mycelium_Edria_Installation.jpg)
+![images](media/Mycelium_Edria_Plan_Derriere_1.png)
+![images](media/Mycelium_Edria_Plan_Derriere_2.png)
+![images](media/Mycelium_Edria_Plan_Devant.png)
 
 
  ## Projet 3 : Nexum 
