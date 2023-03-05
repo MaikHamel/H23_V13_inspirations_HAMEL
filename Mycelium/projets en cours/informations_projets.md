@@ -86,6 +86,10 @@ Ce projet, comme Mycélium, a pour but de montrer la nature (marine). Aussi, Myc
 ### description de l'installation en cours :
 Il y avait des projecteurs et des haut-parleurs qui étaient branché à une tablette qui était connecté à des ordinateurs. Lorsqu'on appuyait sur des animaux qui étaient sur la tablette, il y avait une animation qui montrait l'animal en action. Lorsqu'aucune touche est appuyé, il y a une musique d'ambiance.
 
+![images](media/Mycelium_Echomarine_Installation.jpg)
+![images](media/Mycelium_Echomarine_Plan.png)
+*(plan fait et pris par  Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel)*
+
 
 ### émotions ressenti lors de l'exposition des projets ;
 Personnellement, lors de l'exposition, je pense que je vais être ipressionné, peut-être même bouchebé, puisque j'adore les projets interratifs immersifs qui contiennent de la projection, des lumières et de la musique.
