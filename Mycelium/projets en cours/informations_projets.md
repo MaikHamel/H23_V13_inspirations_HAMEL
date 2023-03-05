@@ -35,6 +35,7 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
 ![images](media/Mycelium_Edria_Plan_Derriere_1.png)
 ![images](media/Mycelium_Edria_Plan_Derriere_2.png)
 ![images](media/Mycelium_Edria_Plan_Devant.png)
+*(plan fait et pris par Elwin Durand, Loic Delore, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe)*
 
 
  ## Projet 3 : Nexum 
