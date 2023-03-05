@@ -68,7 +68,7 @@ Il n'y avait pas beaucoup de lien, mais ce projet a l'histoire d'une jeune fille
 ### description de l'installation en cours :
 Le projet se situait dans une petite pièce et il y avait un ordinateur avec des haut-parleurs qui y était connecté.
 
-![images](media/Mycelium_Zordie-Gal_Installation.jpg)
+
 
 
 
