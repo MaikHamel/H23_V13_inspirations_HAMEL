@@ -1,6 +1,6 @@
 
 # Ce dossier contient les informations sur les projets :
-* Projets en cours
+* Informations sur projets
 * Les images des projets
 
 
