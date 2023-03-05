@@ -88,6 +88,8 @@ Il y avait des projecteurs et des haut-parleurs qui étaient branché à une tab
 
 ![images](media/Mycelium_Echomarine_Installation.jpg)
 ![images](media/Mycelium_Echomarine_Plan.png)
+
+
 *(plan fait et pris par  Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel)*
 
 
