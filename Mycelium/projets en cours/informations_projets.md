@@ -69,6 +69,8 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
 
 ![images](media/Mycelium_Nexum_Plan.png)
 
+*(plan fait et pris par Sébastien Rielly, Sabrina Laforest, Alexandre Daniel, Maxime Des lauriers)*
+
 
 ## Projet 4 : Zordiegal
 
