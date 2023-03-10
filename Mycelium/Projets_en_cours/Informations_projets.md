@@ -24,7 +24,7 @@ Il y a un échelle avec des lumieres suspendus, un vélo stationnaire, de ordina
 
 *(plan fait et pris par Éloise Gagné, Skayla Stimphil, Michaël Simard, Pénélope Marrisson)*
 
-[site du projet](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html)
+[Lumasol](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
 
 
 ## Projet 2 : Edria 
@@ -51,6 +51,8 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
 
 *(plan fait et pris par Elwin Durand, Loic Delore, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe)*
 
+[Edria](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+
 
  ## Projet 3 : Nexum 
  
@@ -73,6 +75,8 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
 
 *(plan fait et pris par Sébastien Rielly, Sabrina Laforest, Alexandre Daniel, Maxime Des lauriers)*
 
+[Nexum](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
+
 
 ## Projet 4 : Zordiegal
 
@@ -86,6 +90,8 @@ Il n'y avait pas beaucoup de lien, mais ce projet a l'histoire d'une jeune fille
 Le projet se situait dans une petite pièce et il y avait un ordinateur avec des haut-parleurs qui y était connecté.
 
 ![images](media/Mycelium_Zordie-Gal_Installation.jpg)
+
+[ZordieGal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
 
 
@@ -108,6 +114,8 @@ Il y avait des projecteurs et des haut-parleurs qui étaient branché à une tab
 
 
 *(plan fait et pris par  Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel)*
+
+[Echomarine](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
 
 ### émotions ressenti lors de l'exposition des projets ;
