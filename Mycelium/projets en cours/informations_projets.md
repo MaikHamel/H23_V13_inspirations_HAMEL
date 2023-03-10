@@ -67,6 +67,9 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
 ![images](media/Mycelium_Nexum_Installation.jpg)
 
 
+![images](media/Mycelium_Nexum_Plan.png)
+
+
 ## Projet 4 : Zordiegal
 
 ### créateur :
