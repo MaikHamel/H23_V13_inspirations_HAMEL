@@ -145,3 +145,7 @@ Personnellement, lors de l'exposition, je pense que je vais être ipressionné, 
 Mon projet préféré est Edria puisque le concept était original et le lien avec le thème était comprennable. J'ai aussi aimé la démonstration du projet, la manière dont la musique et les lumières s'activent lorsque les capteurs sont activés. Le projet que j'ai mis en dernier est Zordie-Gal puisque je ne voyait pas de lien avec le thème. Cependant, les dessins était très beau et le concept, pour un jeu vidéo, était original.
 
 ### composante technique choisie : Capteur TOF ( Temps de Vol ) 
+>Une caméra fonctionnant sur le principe du temps de vol (anglais : Time of Flight, TOF) permet de mesurer en temps réel une scène en 3 dimensions (3D).
+
+Pour ce faire, les caméras TOF illuminent la scène et les objets mesurés par un éclair de lumière, et calculent le temps que cet éclair prend pour effectuer le trajet entre l’objet et la caméra. Le temps de vol de cet éclair est directement proportionnel à la distance entre la caméra et l’objet mesuré.
+>
