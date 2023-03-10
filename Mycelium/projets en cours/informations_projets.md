@@ -21,6 +21,10 @@ Il y a un échelle avec des lumieres suspendus, un vélo stationnaire, de ordina
 ![images](media/Mycelium_Lumasol_Plan_Active.png)
 
 
+
+*(plan fait et pris par Éloise Gagné, Skayla Stimphil, Michaël Simard, Pénélope Marrisson)*
+
+
 ## Projet 2 : Edria 
 
 ### créateurs :
