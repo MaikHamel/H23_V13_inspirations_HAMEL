@@ -110,7 +110,7 @@ Ce projet, comme Mycélium, a pour but de montrer la nature (marine). Aussi, Myc
 Il y avait des projecteurs et des haut-parleurs qui étaient branché à une tablette qui était connecté à des ordinateurs. Lorsqu'on appuyait sur des animaux qui étaient sur la tablette, il y avait une animation qui montrait l'animal en action. Lorsqu'aucune touche est appuyé, il y a une musique d'ambiance.
 
 ![images](media/Mycelium_Echomarine_Installation.jpg)
-![images](media/Mycelium_Echomarine_Plan.jpg)
+![images](media/Mycelium_Echomarine_Plan.png)
 
 
 
