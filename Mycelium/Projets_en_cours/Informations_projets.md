@@ -148,4 +148,4 @@ Mon projet préféré est Edria puisque le concept était original et le lien av
 >Une caméra fonctionnant sur le principe du temps de vol (anglais : Time of Flight, TOF) permet de mesurer en temps réel une scène en 3 dimensions (3D).
 Pour ce faire, les caméras TOF illuminent la scène et les objets mesurés par un éclair de lumière, et calculent le temps que cet éclair prend pour effectuer le trajet entre l’objet et la caméra. Le temps de vol de cet éclair est directement proportionnel à la distance entre la caméra et l’objet mesuré.
 >
-*(Source: [camera temps de vol](https://fr.wikipedia.org/wiki/Cam%C3%A9ra_temps_de_vol))*
+*Source: [camera temps de vol](https://fr.wikipedia.org/wiki/Cam%C3%A9ra_temps_de_vol)*
