@@ -24,6 +24,8 @@ Il y a un échelle avec des lumieres suspendus, un vélo stationnaire, de ordina
 
 *(plan fait et pris par Éloise Gagné, Skayla Stimphil, Michaël Simard, Pénélope Marrisson)*
 
+[site du projet](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html)
+
 
 ## Projet 2 : Edria 
 
