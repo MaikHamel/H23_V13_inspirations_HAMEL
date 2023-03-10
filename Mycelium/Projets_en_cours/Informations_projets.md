@@ -90,6 +90,7 @@ Il n'y avait pas beaucoup de lien, mais ce projet a l'histoire d'une jeune fille
 Le projet se situait dans une petite pièce et il y avait un ordinateur avec des haut-parleurs qui y était connecté.
 
 ![images](media/Mycelium_Zordie-Gal_Installation.jpg)
+![images](media/Mycelium_Zordie-Gal_Plan.png)
 
 [ZordieGal](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
