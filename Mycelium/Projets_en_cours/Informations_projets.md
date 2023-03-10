@@ -1,10 +1,10 @@
 ## Projet 1 : Lumasol 
 
 ### créateurs : 
-* Éloise Gagné
-* Skayla Stimphil
-* Michaël Simard 
-* Pénélope Marrisson
+* [Éloise Gagné](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_1.html)
+* [Skayla Stimphil](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_2.html)
+* [Michaël Simard](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_3.html)
+* [Pénélope Marrisson](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_4.html)
 
 ### lien entre le projet et le thème :
 Le mycélium conencte la végétation ensemble. Le vélo stationnaire, de la même manière, est connecté aux lumières qui représentent les saisons.
@@ -30,12 +30,12 @@ Il y a un échelle avec des lumieres suspendus, un vélo stationnaire, de ordina
 ## Projet 2 : Edria 
 
 ### créateurs :
-* Elwin Durand
-* Loic Delore
-* Dominic Roberts
-* Gabriel Leblanc
-* Meryem Berbiche
-* Jean-Christophe
+* [Elwin Durand](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journaux/journal_1.html)
+* [Loic Delore](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_2.html)
+* [Dominic Roberts](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_3.html)
+* [Gabriel Leblanc](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_4.html)
+* [Meryem Berbiche](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_5.html)
+* [Jean-Christophe](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
 
 ### lien entre le projet et le thème :
 Le but de l'installation est de demontrer le liens entre les humains et l'espace pour retrouver ses amis avec les onditions métérologiques dans lesquelles l'oeuvre sera mis en exposition.
@@ -57,10 +57,10 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
  ## Projet 3 : Nexum 
  
  ### créateurs :
- * Sébastien Rielly
- * Sabrina Laforest
- * Alexandre Daniel
- * Maxime Des lauriers
+ * [Sébastien Rielly](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/journal_1.html)
+ * [Sabrina Laforest](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/journal_2.html)
+ * [Alexandre Daniel](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/journal_3.html)
+ * [Maxime Des lauriers](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/journal_4.html)
 
  ### lien entre le projet et le thème :
  Mycelium est une connection entre les racines et nexum, connecte les personnes puisqu'il relie deux autres projets.
@@ -81,7 +81,7 @@ Il y avait 4 poutres placées au quatres coins et une au milieu. Ceux-ci étaien
 ## Projet 4 : Zordiegal
 
 ### créateur :
-* Abdanor yara
+* [Abdanor yara](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/journal_1.html)
 
 ### lien entre le projet et le thème :
 Il n'y avait pas beaucoup de lien, mais ce projet a l'histoire d'une jeune fille qui aprend à se connaître en combattant des monstres qui représentent les signes du zodiaque.
@@ -98,10 +98,10 @@ Le projet se situait dans une petite pièce et il y avait un ordinateur avec des
 ## Projet 5 : Échomarine
 
 ### créateurs :
-* Florence Lapierre
-* Natacha Abdallah
-* Tracy Gua
-* Maria Laura Coronel
+* [Florence Lapierre](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_1.html)
+* [Natacha Abdallah](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_2.html)
+* [Tracy Gua](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_3.html)
+* [Maria Laura Coronel](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_4.html)
 
 ### lien entre le projet et le thème :
 Ce projet, comme Mycélium, a pour but de montrer la nature (marine). Aussi, Mycélium montre le lien entre l'humain et la nature, Échomarinee montre l'impact de l'humain sur la nature.
