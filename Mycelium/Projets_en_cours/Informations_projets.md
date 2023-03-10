@@ -32,7 +32,7 @@ Il y a un échelle avec des lumieres suspendus, un vélo stationnaire, de ordina
 ## Projet 2 : Edria 
 
 ### créateurs :
-* [Elwin Durand](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journaux/journal_1.html)
+* [Elwin Durand](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_1.html)
 * [Loic Delore](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_2.html)
 * [Dominic Roberts](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_3.html)
 * [Gabriel Leblanc](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_4.html)
