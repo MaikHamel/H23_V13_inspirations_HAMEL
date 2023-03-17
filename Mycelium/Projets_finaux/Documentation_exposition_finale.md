@@ -1,16 +1,18 @@
-# Nom de l'exposition ou de l'événement :
+# Documentation sur Mycelium:
+
+## Nom de l'exposition ou de l'événement :
 Mycelium
 
-# Lieu de mise en exposition:
+## Lieu de mise en exposition:
 Collège Montmorency
 
-# Type d'exposition :
+## Type d'exposition :
 Temporaire
 
-# Date de la visite :
+## Date de la visite :
 vendredi le 17 mars 2023
 
-# Titre de l'oeuvre ou du dispositif :
+## Titre de l'oeuvre ou du dispositif :
 Edria
 
-#
+##
