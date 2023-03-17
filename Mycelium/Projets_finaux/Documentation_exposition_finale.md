@@ -17,4 +17,11 @@ vendredi le 17 mars 2023
 Edria
 
 ### Nom des membres de l'oeuvre :
-* d
+* [Elwin Durand](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_1.html)
+* [Loic Delore](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_2.html)
+* [Dominic Roberts](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_3.html)
+* [Gabriel Leblanc](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_4.html)
+* [Meryem Berbiche](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_5.html)
+* [Jean-Christophe](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
+
+### 
