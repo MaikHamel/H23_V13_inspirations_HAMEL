@@ -1,4 +1,4 @@
-# Documentation sur Mycelium
+# Documentation sur la version finale de Mycelium
 
 
 ### Nom de l'exposition ou de l'événement :
