@@ -1,7 +1,6 @@
 # Documentation sur Mycelium
 
 
-
 ### Nom de l'exposition ou de l'événement :
 Mycelium
 
