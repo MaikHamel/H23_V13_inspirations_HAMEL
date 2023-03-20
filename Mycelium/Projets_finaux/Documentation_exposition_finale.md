@@ -58,3 +58,6 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 
 ### Expérience vécue :
 
+### Ce qui m'a plu :
+
+### Ce qui ne m'a pas plu :
