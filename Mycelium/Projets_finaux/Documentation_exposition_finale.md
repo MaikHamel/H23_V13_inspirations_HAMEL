@@ -25,4 +25,7 @@ Edria
 * [Jean-Christophe](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
 
 ### Année de réalisation :
+2022/2023 
 
+### Description de L'oeuvre :
+Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser... (source(https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html))
