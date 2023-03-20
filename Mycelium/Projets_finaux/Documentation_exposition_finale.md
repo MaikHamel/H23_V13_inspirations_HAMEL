@@ -34,4 +34,27 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 ### Type d'installation :
 interactive
 
-###
+### Fonction du dispisitif multimédia :
+La fonction du dispositif multimédia est de représenter la dualité entre la technologie et la nature.
+
+### Mise en espace :
+
+### Composantes techniques :
+* Des fils et des cables 
+* Un ordinateur
+* Les logiciels pour pouvoir programmer le tout 
+* Des pilones de métal
+* Des lumières (DEL)
+* Des capteurs de mouvements 
+* Des Haut-parleurs
+* Des projecteurs de lumiere
+* Cable protecteur pour les pietons
+*  Caméras de surveillances
+*  Décorations (buissons)
+
+### Éléments pour la mise en exposition :
+* Des bancs
+* Un endroit pour l'exposition
+
+### Expérience vécue :
+
