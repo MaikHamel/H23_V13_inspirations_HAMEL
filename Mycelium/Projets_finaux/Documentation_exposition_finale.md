@@ -16,6 +16,8 @@ vendredi le 17 mars 2023
 ### Titre de l'oeuvre ou du dispositif (photo Vue d'ensemble de l'oeuvre ou du dispositif) :
 Edria
 
+![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
+
 ### Nom des créateurs de l'oeuvre :
 * [Elwin Durand](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_1.html)
 * [Loic Delore](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_2.html)
@@ -31,6 +33,13 @@ Edria
 Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnue : EDRIA. Des piliers se dressent, et un écosystème hors de ce monde se dévoile sous leurs yeux. Une structure centrale attire l’attention des explorateurs. Intrigués, ils rentrent dans cette espace insolite et s'approchent de la dite structure: des lumières s'allument, des sons se déclenchent, et il semblerait que la présence de plusieurs personnes soit nécessaire pour progresser...
 [source](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
+![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
+
+![images](media/Mycelium_Edria_Vue_Gauche.jpg)
+
+![images](media/Mycelium_Edria_Vue_Droite.jpg)
+
+
 ### Type d'installation :
 interactive
 
@@ -38,6 +47,10 @@ interactive
 La fonction du dispositif multimédia est de représenter la dualité entre la technologie et la nature.
 
 ### Mise en espace :
+
+![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
+
+![images](media/Mycelium_Edria_Plan.jpg)
 
 ### Composantes techniques :
 * Des fils et des cables 
