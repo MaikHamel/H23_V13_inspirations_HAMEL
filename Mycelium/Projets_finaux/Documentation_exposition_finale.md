@@ -76,7 +76,7 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 ![images](media/Mycelium_Edria_Composantes_DEL_2.jpg)
 
 
-![images](media/Mycelium_Edria_Composantes_DEL_3.jpg)
+![images](media/Mycelium_Edria__Composantes_DEL_3.jpg)
 
 
 * Des capteurs de mouvements 
