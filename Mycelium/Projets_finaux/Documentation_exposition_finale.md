@@ -4,11 +4,17 @@
 ### Nom de l'exposition ou de l'événement :
 Mycelium
 
+[images](media/Mycelium_Edria_Affiche_Exposition.jpg)
+
 ### Lieu de mise en exposition (photo de moi devant lentree) :
 Collège Montmorency
 
+[images](media/Mycelium_Edria_Photo_Devant_Affiche.jpg)
+
 ### Type d'exposition :
 Temporaire
+
+![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
 
 ### Date de la visite :
 vendredi le 17 mars 2023
@@ -84,9 +90,21 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 ![images](media/Mycelium_Edria_Composantes_CapteurTOF.jpg)
 
 * Des Haut-parleurs
+
+![images](media/Mycelium_Edria_Composantes_Haut-parleurs.jpg)
+
 * Des projecteurs de lumiere
+
+![images](media/Mycelium_Edria_Composantes_Projecteurs.jpg)
+
 * Cable protecteur pour les pietons
+
+![images](media/Mycelium_Edria_Composantes_Protecteur_Pieton.jpg)
+
 *  Caméras de surveillances
+
+![images](media/Mycelium_Edria_Composantes_Projecteurs.jpg)
+
 *  Décorations (buissons)
 
 ### Éléments pour la mise en exposition :
