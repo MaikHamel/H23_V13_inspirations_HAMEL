@@ -80,6 +80,9 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 
 
 * Des capteurs de mouvements 
+
+![images](media/Mycelium_Edria_Composantes_CapteurTOF.jpg)
+
 * Des Haut-parleurs
 * Des projecteurs de lumiere
 * Cable protecteur pour les pietons
