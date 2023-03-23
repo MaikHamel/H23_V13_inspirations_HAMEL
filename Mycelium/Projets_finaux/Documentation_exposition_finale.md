@@ -54,10 +54,31 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 
 ### Composantes techniques :
 * Des fils et des cables 
+
+![images](media/Mycelium_Edria_Composantes_Cables.jpg)
+
 * Un ordinateur
-* Les logiciels pour pouvoir programmer le tout 
-* Des pilones de métal
+
+![images](media/Mycelium_Edria_Composantes_Ordinateur.jpg)
+
+* Les logiciels pour pouvoir programmer
+
+
+* Des pylones de métal
+
+![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
+
 * Des lumières (DEL)
+
+![images](media/Mycelium_Edria_Composantes_DEL_1.jpg)
+
+
+![images](media/Mycelium_Edria_Composantes_DEL_2.jpg)
+
+
+![images](media/Mycelium_Edria_Composantes_DEL_3.jpg)
+
+
 * Des capteurs de mouvements 
 * Des Haut-parleurs
 * Des projecteurs de lumiere
