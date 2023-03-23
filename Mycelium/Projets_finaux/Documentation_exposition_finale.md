@@ -44,7 +44,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 interactive
 
 ### Fonction du dispisitif multimédia :
-La fonction du dispositif multimédia est de représenter la dualité entre la technologie et la nature.
+La fonction du dispositif multimédia est de représenter la dualité entre la technologie et la nature. L'oeuvre est composé de cinq pylone, dont 4 sur les cotés et un au milieu. Celui du milieu a des capteurs TOF autour de celui-ci et lorsque quelq'un
 
 ### Mise en espace :
 
