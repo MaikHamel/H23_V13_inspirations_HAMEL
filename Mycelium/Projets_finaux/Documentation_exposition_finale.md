@@ -50,7 +50,7 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 
 ![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
 
-![images](media/Mycelium_Edria_Plan.jpg)
+![images](media/Mycelium_Edria_Plan.jpeg)
 
 ### Composantes techniques :
 * Des fils et des cables 
