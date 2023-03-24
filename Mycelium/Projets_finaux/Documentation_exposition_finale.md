@@ -109,6 +109,9 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 
 ### Éléments pour la mise en exposition :
 * Des bancs
+
+![images](media/Mycelium_Edria_Composantes_Tables.jpg)
+
 * Un endroit pour l'exposition
 
 ### Expérience vécue :
