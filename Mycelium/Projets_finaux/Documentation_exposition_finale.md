@@ -111,12 +111,11 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 
 ![images](media/Mycelium_Edria_Composantes_Protecteur_Pieton.jpg)
 
-*  Caméras de surveillances
+*  Caméras de surveillance
 
-![images](media/Mycelium_Edria_Composantes_Projecteurs.jpg)
+![images](media/Mycelium_Edria_Composantes_Camera_Surveillance.jpg)
 
 *  Décorations (buissons)
-
 ![images](media/Mycelium_Edria_Composantes_Decorations.jpg)
 
 ### Éléments pour la mise en exposition :
