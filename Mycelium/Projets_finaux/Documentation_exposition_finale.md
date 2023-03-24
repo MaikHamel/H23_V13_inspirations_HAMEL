@@ -50,7 +50,15 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 interactive
 
 ### Fonction du dispisitif multimédia :
-La fonction du dispositif multimédia est de représenter la dualité entre la technologie et la nature. L'oeuvre est composé de cinq pylone, dont 4 sur les cotés et un au milieu. Celui du milieu a des capteurs TOF autour de celui-ci et lorsque quelq'un
+La fonction du dispositif multimédia est de représenter la dualité entre la technologie et la nature. L'oeuvre est composé de cinq pylone, dont 4 sur les cotés et un au milieu. Celui du milieu a des capteurs TOF qui se situent à chaque faces du prisme 
+
+![images](media/Mycelium_Edria_Vue_Parlante_Droite.jpg)
+
+
+![images](media/Mycelium_Edria_Vue_Parlante_Gauche.jpg)
+
+
+![images](media/Mycelium_Edria_Vue_Parlante_Face.jpg)
 
 ### Mise en espace :
 
@@ -116,8 +124,13 @@ La fonction du dispositif multimédia est de représenter la dualité entre la t
 
 ### Expérience vécue :
 
-Le lieu de l'exposition comporte plusieurs chemins qui 
+Les visiteurs doivent se placer devant des capteurs de mouvement pour pouvoir activer les animations ( jeu de lumières et son). Ceux-ci sont différentes dépendamment du nombre de capteurs qui sont activées. Une animation spécial est activé l'orsque tous les capteurs sont déclenchés. Les visiteurs peuvent s'asseoir à des tables ou rester debout et sont libres de se positionner n'importe où pour regarder l'exposition. 
+
+![images](media/Mycelium_Edria_Posture_Visiteur.jpg)
 
 ### Ce qui m'a plu :
+J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire une documentation sur celle-ci. La musique et les jeux de lumière se complémentaient et il n'y avait pas de problèmes liées au dispositif multimédia. 
 
 ### Ce qui ne m'a pas plu :
+
+Il n'y a rien qui ne m'a pas plus pusique j'ai aimé le projet au complet.
