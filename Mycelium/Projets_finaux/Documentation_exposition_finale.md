@@ -4,12 +4,12 @@
 ### Nom de l'exposition ou de l'événement :
 Mycelium
 
-[images](media/Mycelium_Edria_Affiche_Exposition.jpg)
+![images](media/Mycelium_Edria_Affiche_Exposition.jpg)
 
 ### Lieu de mise en exposition (photo de moi devant lentree) :
 Collège Montmorency
 
-[images](media/Mycelium_Edria_Photo_Devant_Affiche.jpg)
+![images](media/Mycelium_Edria_Photo_Devant_Affiche.jpg)
 
 ### Type d'exposition :
 Temporaire
