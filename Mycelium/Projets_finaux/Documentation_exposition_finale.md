@@ -49,6 +49,8 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 ### Type d'installation :
 interactive
 
+![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
+
 ### Fonction du dispisitif multimédia :
 La fonction du dispositif multimédia est de représenter la dualité entre la technologie et la nature. L'oeuvre est composé de cinq pylone, dont 4 sur les cotés et un au milieu. Celui du milieu a des capteurs TOF qui se situent à chaque faces du prisme 
 
