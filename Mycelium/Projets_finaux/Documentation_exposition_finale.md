@@ -14,7 +14,7 @@ Collège Montmorency
 ### Type d'exposition :
 Temporaire
 
-![images](media/Mycelium_Edria_Vue_Ensemble.jpg)
+
 
 ### Date de la visite :
 vendredi le 17 mars 2023
