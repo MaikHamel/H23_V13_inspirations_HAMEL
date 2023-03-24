@@ -139,3 +139,12 @@ J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire u
 ### Ce qui ne m'a pas plu :
 
 Il n'y a rien qui ne m'a pas plus pusique j'ai aimé le projet au complet.
+
+
+### Évaluation des expositions:
+
+1. Edria
+2. Echomarine
+3. Zordie-Gal
+4. Nexum
+5. Lumasol
