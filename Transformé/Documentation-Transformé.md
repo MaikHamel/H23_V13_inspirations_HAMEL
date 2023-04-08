@@ -29,6 +29,7 @@ Transformé
 
 ### Description de L'oeuvre :
 Pour la première fois, une expérience immersive déambulatoire complète a été développée à partir d’œuvres initialement conçues pour les casques de réalité virtuelle. Il s’agit d’une véritable prouesse technologique réalisée sous la direction de l’équipe d’OASIS immersion, en collaboration avec quelques-uns des meilleurs talents en réalité virtuelle à l’échelle internationale. Au cœur du projet, huit récits réunis dans une expérience collective où le courage et l’empathie seront les thèmes centraux. 
+![OASIS immersion](https://oasis.im/transforme/)
 
 ### Type d'installation :
 interactive
