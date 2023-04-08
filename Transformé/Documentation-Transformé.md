@@ -29,27 +29,17 @@ Transformé
 
 ### Description de L'oeuvre :
 Pour la première fois, une expérience immersive déambulatoire complète a été développée à partir d’œuvres initialement conçues pour les casques de réalité virtuelle. Il s’agit d’une véritable prouesse technologique réalisée sous la direction de l’équipe d’OASIS immersion, en collaboration avec quelques-uns des meilleurs talents en réalité virtuelle à l’échelle internationale. Au cœur du projet, huit récits réunis dans une expérience collective où le courage et l’empathie seront les thèmes centraux. 
+
 [OASIS immersion](https://oasis.im/transforme/)
 
 ### Type d'installation :
-interactive
-
-![images](media/Mycelium_Edria_vue_ensemble.jpg)
+immersive et interactive
 
 
-![images](media/Mycelium_Edria_vue_parlante_droite.jpg)
-
-
-![images](media/Mycelium_Edria_vue_parlante_gauche.jpg)
-
-
-![images](media/Mycelium_Edria_vue_parlante_face.jpg)
 
 ### Mise en espace :
 
-![images](media/Mycelium_Edria_vue_ensemble.jpg)
 
-![images](media/Mycelium_Edria_plan.jpeg)
 
 ### Composantes techniques :
 * Des fils et des cables 
@@ -121,14 +111,5 @@ J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire u
 
 ### Ce qui ne m'a pas plu :
 
-Il n'y a rien qui ne m'a pas plus pusique j'ai aimé le projet au complet.
-
-
-### Évaluation des expositions:
-
-1. Edria
-2. Echomarine
-3. Zordie-Gal
-4. Nexum
-5. Lumasol
+La seule chose que je n'ai pas aimé est qu'il y avait beaucoup de gens la journée qu'on y avait été, donc beaucoup de bancs étaient deja pris.
 
