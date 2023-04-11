@@ -39,6 +39,8 @@ immersive et interactive
 
 ### Mise en espace :
 
+L'exposition se déroule dans trois pièces et chaques pièces contiennent plusieurs gros projecteurs qui projectent aux murs et plusieurs petit projecteurs qui projectent au sol. Pour chaques pièces, il y a différents types de bancs pour pouvoir s'asseoir. La troisième piece contient de long bancs et des miroirs au millieu de la pièce.
+
 
 
 ### Composantes techniques :
@@ -102,13 +104,12 @@ immersive et interactive
 
 ### Expérience vécue :
 
-Les visiteurs doivent se placer devant des capteurs de mouvement pour pouvoir activer les animations ( jeu de lumières et son). Ceux-ci sont différentes dépendamment du nombre de capteurs qui sont activées. Une animation spécial est activé l'orsque tous les capteurs sont déclenchés. Les visiteurs peuvent s'asseoir à des tables ou rester debout et sont libres de se positionner n'importe où pour regarder l'exposition. 
+Les visiteurs doivent s'assoir à des bancs ou rester debout pour pouvoir regarder le spectacle de projetions. Il y a des projections sur chaques murs et aussi des projections au sol. Ces projections au sol s'animent lorsque les visiteurs se promènent.
 
 ![images](media/Mycelium_Edria_posture_visiteur.jpg)
 
 ### Ce qui m'a plu :
-J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire une documentation sur celle-ci. La musique et les jeux de lumière se complémentaient et il n'y avait pas de problèmes liées au dispositif multimédia. 
-
+J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire une documentation sur celle-ci. J'ai adoré la première exposition de cette compagnieque j'ai visité, une autre raison pour laquelle j'ai décidé de faire une documentation sur celle-ci. Ce que j'ai le plus aimé, est le récit démontrant la ville de tokyo. Ce que j'ai aimé de cette partie est le mélange de couleurs et le mouvement en continu de la caméra, ce qui donne une impression de voler dans la ville.
 ### Ce qui ne m'a pas plu :
 
 La seule chose que je n'ai pas aimé est qu'il y avait beaucoup de gens la journée qu'on y avait été, donc beaucoup de bancs étaient deja pris.
