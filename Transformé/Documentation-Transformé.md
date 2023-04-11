@@ -44,63 +44,19 @@ L'exposition se déroule dans trois pièces et chaques pièces contiennent plusi
 
 
 ### Composantes techniques :
-* Des fils et des cables 
-
-![images](media/Mycelium_Edria_composantes_cables.jpg)
-
-* Un ordinateur
-
-![images](media/Mycelium_Edria_composantes_ordinateur.jpg)
-
-* Les logiciels pour pouvoir programmer
-
-
-* Des pylones de métal
-
-![images](media/Mycelium_Edria_vue_ensemble.jpg)
-
-* Des lumières (DEL)
-
-![images](media/Mycelium_Edria_composantes_DEL_1.jpg)
-
-
-![images](media/Mycelium_Edria_composantes_DEL_2.jpg)
-
-
-![images](media/Mycelium_Edria_composantes_DEL_3.jpg)
-
-
-* Des capteurs de mouvements 
-
-![images](media/Mycelium_Edria_composantes_capteurTOF.jpg)
-
-* Des Haut-parleurs
-
-![images](media/Mycelium_Edria_composantes_haut-parleurs.jpg)
-
-* Des projecteurs de lumiere
-
-![images](media/Mycelium_Edria_composantes_projecteurs.jpg)
-
-* Cable protecteur pour les pietons
-
-![images](media/Mycelium_Edria_composantes_protecteur_pieton.jpg)
-
-*  Caméras de surveillance
-
-![images](media/Mycelium_Edria_composantes_camera_surveillance.jpg)
-
-*  Décorations (buissons)
-
-
-![images](media/Mycelium_Edria_composantes_decorations.jpg)
+* vidéos des expositions vr
 
 ### Éléments pour la mise en exposition :
 * Des bancs
 
-![images](media/Mycelium_Edria_composantes_tables.jpg)
+* Mirroirs au millieu
 
-* Un endroit pour l'exposition
+* Haut-parleurs
+
+* Projecteurs(gros)
+
+* Projecteurs(petits)
+
 
 ### Expérience vécue :
 
