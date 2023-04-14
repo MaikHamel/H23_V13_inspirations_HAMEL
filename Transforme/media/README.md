@@ -1,1 +1,1 @@
-Contient tous les photo pour la presentation
+Contient tous les photos pour la presentation
