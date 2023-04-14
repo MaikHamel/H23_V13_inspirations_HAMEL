@@ -9,6 +9,14 @@ ce dossier contient les documentations :
   1. media: <br>
     1.1 images pris lors de l'exposition BIAN
   2. documentation sur Retina
- * Mycélium
+ * Mycélium: 
+  1. projets en cours: <br>
+    1.1 media: <br>
+      1.1.1 les photos pris lors de la visite des projets en cours <br>
+    1.2 documetation sur les projets en cours
+   2. projets finaux: <br>
+    2.1 media: <br>
+      2.1.1 les photos pris du projet chosit Edria <br>
+    2.2 documentation sur le pjet final
  * Transformé
  * Compte-rendu
