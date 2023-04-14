@@ -2,8 +2,11 @@
 
 
 ce dossier contient les documentations :
- * Semaine 1
- * BIAN 
+ * Semaine 1:
+  - images sur moi
+  - documentation sur moi
+ * BIAN :
+  - 
  * Mycélium
  * Transformé
  * Compte-rendu
