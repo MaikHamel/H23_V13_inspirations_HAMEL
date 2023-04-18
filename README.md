@@ -18,12 +18,12 @@ ce dossier contient les documentations :
     2.1 media: <br>
       2.1.1 les photos pris du projet chosit Edria <br>
     2.2 documentation sur le projet final
- * Transformé
+ * Transformé:
   1. documentation transformé
   2. plan documentation finale
   3. media <br>
     3.1 images pour documentation
- * Compte-rendu <br>
+ * Compte-rendu: <br>
    1. Halo Création <br>
       1.1 texte conférence halo création <br>
    2. Studio Anti-Modular <br>
