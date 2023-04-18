@@ -24,3 +24,5 @@ ce dossier contient les documentations :
   3. media <br>
     3.1 images pour documentation
  * Compte-rendu
+   1. Conference halo création
+   2. conférence Anti-modular
