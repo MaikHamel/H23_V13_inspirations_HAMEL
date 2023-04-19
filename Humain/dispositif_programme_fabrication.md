@@ -32,7 +32,7 @@ Un programme de fabrication commun
 
 ### Description du dispositif :
 
-L’exposition propose de vivre les multiples métamorphoses de l’être humain depuis ses origines, de comprendre pourquoi et comment le corps se transforme à chacune des étapes de la vie. Amusez-vous à vous glisser dans la peau de l’autre et laissez-vous émerveiller par un regard unique sur la beauté et la richesse du corps humain.
+L’exposition propose de vivre les multiples métamorphoses de l’être humain depuis ses origines, de comprendre pourquoi et comment le corps se transforme à chacune des étapes de la vie. Amusez-vous à vous glisser dans la peau de l’autre et laissez-vous émerveiller par un regard unique sur la beauté et la richesse du corps humain.* [source](https://www.centredessciencesdemontreal.com/exposition-permanente/humain)
 
 
 
