@@ -76,7 +76,7 @@ Le dispositif se situe proche de l'entrée de la salle de l'exposition. Celui-ci
 
 * lumière
 
-![images](media/Humain_dispositif_fabrication_plan.jpg)
+![images](media/Humain_dispositif_fabrication_element_lumiere.jpg)
 
 * LED
 
@@ -84,7 +84,7 @@ Le dispositif se situe proche de l'entrée de la salle de l'exposition. Celui-ci
 
 * pièces
 
-![images](media/Humain_dispositif_fabrication_plan.jpg)
+![images](media/Humain_dispositif_fabrication_element_pieces.jpg)
 
 
 ### Expérience vécue :
