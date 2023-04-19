@@ -1,1 +1,13 @@
-Ce dossier contient le plan de la préésentation, la presentation et les medias
+# Ce dossier contient les sous-dossiers:
+* le plan de la présentation
+* la presentation
+* medias
+
+
+
+
+
+
+
+
+
