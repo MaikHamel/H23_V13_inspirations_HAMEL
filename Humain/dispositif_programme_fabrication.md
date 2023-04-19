@@ -11,7 +11,8 @@ Humain
 Salle des sciences
 
 ![images](media/Humain_dispositif_fabrication_photo_avant.png)
-*photo prise pas Kraine Lécuyer
+
+*photo prise pas Kraine Lécuyer*
 
 ### Type d'exposition :
 Permanent
