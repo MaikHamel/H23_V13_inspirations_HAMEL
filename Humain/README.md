@@ -1,3 +1,7 @@
-Ce dossier contient :
-media
-documentation du dispositif
+# Ce dossier contient les sous-dossiers:
+* medias
+* documentation du dispositif
+
+
+
+
