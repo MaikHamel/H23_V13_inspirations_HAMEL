@@ -49,6 +49,8 @@ Ce dispoditif permet aux visiteurs d'apprendre sur la fabrication de l'ADN et de
 
 ### Type d'installation :
 Interactif
+
+
 ![images](media/Humain_dispositif_fabrication_element_LED.jpg)
 
 ### Fonction du dispositif :
