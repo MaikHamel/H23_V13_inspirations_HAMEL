@@ -10,7 +10,7 @@ Humain
 ### Lieu de mise en exposition (photo de moi devant lentree) :
 Salle des sciences
 
-![images](media/Humain_dispositif_fabrication_photo_avant.jpg)
+![images](/media/Humain_dispositif_fabrication_photo_avant.jpg)
 
 ### Type d'exposition :
 Permanent
