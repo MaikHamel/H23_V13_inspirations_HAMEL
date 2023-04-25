@@ -33,5 +33,5 @@ ce dossier contient les documentations :
   * Humain :
     1. media: <br>
       1.1 tous les photo prise lors de la visite <br>
-    2. doumentation sur dispositif
+    2. documentation sur dispositif
       
