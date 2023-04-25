@@ -31,7 +31,7 @@ Transformé
 2022/2023 
 
 ### Description de L'oeuvre :
-Pour la première fois, une expérience immersive déambulatoire complète a été développée à partir d’œuvres initialement conçues pour les casques de réalité virtuelle. Il s’agit d’une véritable prouesse technologique réalisée sous la direction de l’équipe d’OASIS immersion, en collaboration avec quelques-uns des meilleurs talents en réalité virtuelle à l’échelle internationale. Au cœur du projet, huit récits réunis dans une expérience collective où le courage et l’empathie seront les thèmes centraux. 
+Pour la première fois, une expérience immersive déambulatoire complète a été développée à partir d’œuvres initialement conçues pour les casques de réalité virtuelle. Il s’agit d’une véritable prouesse technologique réalisée sous la direction de l’équipe d’OASIS immersion, en collaboration avec quelques-uns des meilleurs talents en réalité virtuelle à l’échelle internationale. Au cœur du projet, huit récits réunis dans une expérience collective où le courage et l’empathie seront les thèmes centraux. [OASIS Transformé](https://oasis.im/transforme/?utm_term=oasis%20immersion&utm_campaign=DIG+-+%5BS%5D+-+ECOM+-+FR+-+CAN+-+Brand+-+Transform%C3%A9&utm_source=adwords&utm_medium=ppc&hsa_acc=4321666449&hsa_cam=19225434888&hsa_grp=146883843240&hsa_ad=641001229580&hsa_src=g&hsa_tgt=kwd-1715752844287&hsa_kw=oasis%20immersion&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw9J2iBhBPEiwAErwpecNUCIs_Ns07UVL-DjI32MJCSK7LdHIGoDCmeKfGXDxtoHS2VLw46BoCI2YQAvD_BwE)
 
 
 
