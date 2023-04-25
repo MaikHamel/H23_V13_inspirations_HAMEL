@@ -70,6 +70,12 @@ L'exposition se déroule dans trois pièces et chaques pièces contiennent plusi
 ### Composantes techniques :
 * vidéos des expositions vr
 
+[Notes on blindness](https://youtu.be/ef-Id3PsEzM)
+
+[Conscious existance](https://youtu.be/FbicMIHg2XQ)
+
+[Goliath](https://youtu.be/QdcfLwZZ114)
+
 ### Éléments pour la mise en exposition :
 * Des bancs
 
