@@ -28,3 +28,10 @@ ce dossier contient les documentations :
       1.1 texte conférence halo création <br>
    2. Studio Anti-Modular <br>
       2.1 texte conférence Studio Anti-Modular
+      
+      
+  * Humain :
+    1. media: <br>
+      1.1 tous les photo prise lors de la visite <br>
+    2. doumentation sur dispositif
+      
