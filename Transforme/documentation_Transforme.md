@@ -123,7 +123,7 @@ video par [ScottishGamerVR](https://www.youtube.com/watch?v=QdcfLwZZ114)
 
 ### Expérience vécue :
 
-Les visiteurs doivent s'assoir à des bancs ou rester debout pour pouvoir regarder le spectacle de projetions. Il y a des projections sur chaques murs et aussi des projections au sol. Ces projections au sol s'animent lorsque les visiteurs se promènent.
+Les visiteurs doivent s'assoir à des bancs ou rester debout pour pouvoir regarder le spectacle de projetions. Il y a des projections sur chaques murs et aussi des projections au sol et ces projections au sol s'animent lorsque les visiteurs se promènent. 
 
 ![images](media/OASIS_Transforme_posture_visiteur.jpg)
 
