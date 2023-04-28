@@ -74,6 +74,10 @@ L'exposition se déroule dans trois pièces et chaques pièces contiennent plusi
 
 [Conscious existance](https://youtu.be/FbicMIHg2XQ)
 
+
+fideo par [AltVR](https://www.youtube.com/@AltVR_YouTube)
+
+
 [Goliath](https://youtu.be/QdcfLwZZ114)
 
 ### Éléments pour la mise en exposition :
