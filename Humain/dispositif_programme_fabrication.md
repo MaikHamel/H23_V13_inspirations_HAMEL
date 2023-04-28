@@ -94,7 +94,7 @@ Le dispositif se situe proche de l'entrée de la salle de l'exposition. Celui-ci
 
 ### Expérience vécue :
 
-Les visiteurs doivent pendre chaque morceaux et les placer au bon endroit en s'assurant que chaque suite de couleur correspondent avec ceux affiché sur la table. Si le visiteur voit que des informations s'affichent en dessous du morceau, cela indique que les couleurs sont correctement placés.  
+Les visiteurs doivent pendre chaque morceaux et les placer au bon endroit en s'assurant que chaque suites de couleurs, représentants les codes génétiques, correspondent avec ceux affiché sur la table. Si le visiteur voit que des informations s'affichent en dessous du morceau, cela indique que les couleurs sont correctement placés.  
 
 ![images](media/Humain_dispositif_fabrication_vue_experience.jpg)
 
