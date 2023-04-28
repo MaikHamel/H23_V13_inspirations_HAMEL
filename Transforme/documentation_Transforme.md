@@ -73,19 +73,19 @@ L'exposition se déroule dans trois pièces et chaques pièces contiennent plusi
 [Notes on blindness](https://youtu.be/ef-Id3PsEzM)
 
 
-video par [ScottishGamerVR](https://www.youtube.com/@scottishgamervr)
+*video par [ScottishGamerVR](https://www.youtube.com/@scottishgamervr)*
 
 
 [Conscious existance](https://youtu.be/FbicMIHg2XQ)
 
 
-video par [AltVR](https://www.youtube.com/@AltVR_YouTube)
+*video par [AltVR](https://www.youtube.com/@AltVR_YouTube)*
 
 
 [Goliath](https://youtu.be/QdcfLwZZ114)
 
 
-video par [ScottishGamerVR](https://www.youtube.com/watch?v=QdcfLwZZ114)
+*video par [ScottishGamerVR](https://www.youtube.com/watch?v=QdcfLwZZ114)*
 
 
 
