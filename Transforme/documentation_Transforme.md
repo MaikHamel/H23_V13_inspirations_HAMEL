@@ -84,6 +84,11 @@ video par [AltVR](https://www.youtube.com/@AltVR_YouTube)
 
 [Goliath](https://youtu.be/QdcfLwZZ114)
 
+
+video par [ScottishGamerVR](https://www.youtube.com/watch?v=QdcfLwZZ114)
+
+
+
 ### Éléments pour la mise en exposition :
 * Des bancs
 
