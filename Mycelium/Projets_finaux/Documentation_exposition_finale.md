@@ -127,7 +127,7 @@ interactive
 
 ### Expérience vécue :
 
-Les visiteurs doivent se placer devant des capteurs de mouvement pour pouvoir activer les animations ( jeu de lumières et son). Ceux-ci sont différentes dépendamment du nombre de capteurs qui sont activées. Une animation spécial est activé l'orsque tous les capteurs sont déclenchés. Les visiteurs peuvent s'asseoir à des tables ou rester debout et sont libres de se positionner n'importe où pour regarder l'exposition. 
+Les visiteurs peuvent entrer par 8 entrées pour se rendre au millieu du lieu. Les visiteurs doivent se placer devant des capteurs de mouvement pour pouvoir activer les animations ( jeu de lumières et son). Ceux-ci sont différentes dépendamment du nombre de capteurs qui sont activées. Une animation spécial est activé l'orsque tous les capteurs sont déclenchés. Les visiteurs peuvent s'asseoir à des tables ou rester debout et sont libres de se positionner n'importe où pour regarder l'exposition.
 
 ![images](media/Mycelium_Edria_posture_visiteur.jpg)
 
