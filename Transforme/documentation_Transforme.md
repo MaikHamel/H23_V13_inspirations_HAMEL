@@ -57,7 +57,7 @@ immersive et interactive
 
 ### Mise en espace :
 
-L'exposition se déroule dans trois pièces et chaques pièces contiennent plusieurs gros projecteurs qui projectent aux murs et plusieurs petit projecteurs qui projectent au sol. Pour chaques pièces, il y a différents types de bancs pour pouvoir s'asseoir. La troisième piece contient de long bancs et des miroirs au millieu de la pièce.
+L'exposition se déroule dans trois pièces et chaques pièces contiennent plusieurs gros projecteurs qui projectent aux murs (un pour chaque murs) et plusieurs petit projecteurs qui projectent au sol. Pour chaques pièces, il y a différents types de bancs pour pouvoir s'asseoir et differents objets qui réfletent la lumière. Les trois pièces sont de differentes grosseur, dont la troisième étant la plus grosse, ce qui permet au visiteurs d'avoir plus d'espace. 
 
 
 
