@@ -27,6 +27,10 @@ vendredi le 24 février
 ### Titre de l'oeuvre ou du dispositif (photo Vue d'ensemble de l'oeuvre ou du dispositif) :
 Transformé (pièce nommé panorama)
 
+
+![images](media/OASIS_Transforme_vue_ensemble.jpg)
+
+
 ### Année de réalisation :
 2022/2023 
 
