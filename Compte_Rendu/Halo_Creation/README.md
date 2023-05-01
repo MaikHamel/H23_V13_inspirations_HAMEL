@@ -1,1 +1,1 @@
-Ce Dossier contient la documentation sur la conference d'Halo Création
+Ce dossier contient la documentation sur la conference d'Halo Création
