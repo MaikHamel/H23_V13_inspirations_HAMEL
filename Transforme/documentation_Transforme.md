@@ -137,3 +137,6 @@ J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire u
 
 La seule chose que je n'ai pas aimé est qu'il y avait beaucoup de gens la journée qu'on y avait été, donc beaucoup de bancs étaient deja pris.
 
+### Lien avec les autres oeuvres :
+Le lien de cette exposition avec Retina est que les deux ont réussi à venir me chercher par les émotions. Il y avait beaucoup de jeux de lumière et cela se complémentait avec la bande sonore choisit. Aussi, les deux œuvres ont réussi à utiliser les projections et les jeux de lumières pour transmettre des messages. 
+
