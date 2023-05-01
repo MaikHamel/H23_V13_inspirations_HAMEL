@@ -12,9 +12,6 @@ Oasis immersion
 
 
 
-![images](media/OASIS_Transforme_vue_ensemble.jpg)
-
-
 
 ### Type d'exposition :
 Temporaire
