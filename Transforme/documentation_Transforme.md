@@ -124,7 +124,7 @@ L'exposition se déroule dans trois pièces et chaques pièces contiennent plusi
 
 ### Expérience vécue :
 
-Chaques pièces sont reliées par des allées, qui contenaient des informations sur les oeuvres, et les visiteurs doivent passer par ceux-ci pour se rendre aux autres salles. Puisque les vidéos, contenant les projets VR, pour chaque salle se répète à la fin, les visiteurs, lorsqu'ils revoient la même partie vu au début, peuvent aller dans la prochaine pièce ou rester dans celle-ci. Pour chaques pièces,les visiteurs peuvent s'assoir à des bancs ou rester debout pour pouvoir regarder le spectacle de projetions. Il y a des projections sur chaques murs et aussi des projections au sol qui s'animent lorsque les visiteurs se promènent. 
+Chaques pièces sont reliées par des allées, qui contenaient des informations sur les oeuvres, et les visiteurs doivent passer par ceux-ci pour se rendre aux autres salles. Puisque les vidéos, contenant les projets VR, pour chaque salle se répète à la fin, les visiteurs, lorsqu'ils revoient la même partie vu au début, peuvent aller dans la prochaine pièce ou rester dans celle-ci. Pour chaques pièces, les visiteurs peuvent s'assoir à des bancs ou rester debout pour pouvoir regarder le spectacle de projetions. Il y a des projections sur chaques murs et aussi des projections au sol qui s'animent lorsque les visiteurs se promènent. 
 
 ![images](media/OASIS_Transforme_posture_visiteur.jpg)
 
