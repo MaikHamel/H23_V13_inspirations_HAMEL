@@ -23,7 +23,7 @@ ce dossier contient les documentations :
   2. plan documentation finale
   3. media <br>
     3.1 images pour documentation
- * Compte-rendu: <br>
+ * Compte rendu: <br>
    1. Halo Création <br>
       1.1 texte conférence halo création <br>
    2. Studio Anti-Modular <br>
