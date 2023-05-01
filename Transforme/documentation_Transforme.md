@@ -129,7 +129,7 @@ Chaques pièces sont reliées par des allées et les visiteurs doivent passer pa
 ![images](media/OASIS_Transforme_posture_visiteur.jpg)
 
 ### Ce qui m'a plu :
-J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire une documentation sur celle-ci. J'ai aussi visité une autre oeuvre fait par la compagnie et j'ai été bouchebée par la beauté de celle-ci, une autre raison ooir laquelle j'ai voulu documenter cette exposition. Ce que j'ai le plus aimé, est le récit démontrant la ville de tokyo. Ce que j'ai aimé de cette partie est le mélange de couleurs et le mouvement en continu de la caméra, ce qui donne une impression de voler dans la ville.
+J'ai aimé l'oeuvre au complet, la  raison pur laquelle j'ai décidé de faire une documentation sur celle-ci. J'ai aussi visité une autre oeuvre fait par la compagnie (Distorsion) et j'ai été bouchebée par la beauté de celle-ci, une autre raison ooir laquelle j'ai voulu documenter cette exposition. Ce que j'ai le plus aimé, est le récit démontrant la ville de tokyo. Ce que j'ai aimé de cette partie est le mélange de couleurs et le mouvement en continu de la caméra, ce qui donne une impression de voler dans la ville.
 
 ![images](media/OASIS_Transforme_photo_parti_prefere.jpg)
 
