@@ -14,11 +14,11 @@
 # Développement :
 
  ### Informations sur l'oeuvre ou le dispositif multimémia et le lieu d'exposition: 
- - Titre
  - Nom de l'exposition ou de l'événement
  - Type d'exposition
  - Lieu de mise en exposition + Infos sur le lieu
  - Date de votre visite
+ - Titre de l'oeuvre
 
  ### Présentation détaillée de l'oeuvre ou du dispositif multimédia: 
  - description
