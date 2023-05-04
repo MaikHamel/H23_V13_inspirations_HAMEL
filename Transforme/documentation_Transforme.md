@@ -34,25 +34,25 @@ Transformé (pièce nommé panorama)
 ### Description de L'oeuvre :
  
 
- Notes on Blindness:
+ **Notes on Blindness:**
  
- **(fait par Arnaud Colinart, Amaury La Burthe, Peter Middleton et James Spinney)**
+ *(fait par Arnaud Colinart, Amaury La Burthe, Peter Middleton et James Spinney)*
  
  Notes on Blindness invite le visiteur à suivre le parcours de John Hull, un homme ayant graduellement perdu la vue en 1983. Conçue à partir d’enregistrements audio originaux, dans lesquels John Hull a recueilli ses observations et sentiments, Notes on Blindness utilise le pouvoir de l’immersion et de la spatialisation sonore pour nous transposer dans sa nouvelle réalité. Témoin de son cheminement, chaque son et chaque texture deviennent une source de fascination et de redécouverte. Notes on Blindness est une ode aux sens et à la force de l’esprit humain, un hommage au courage dans l’adversité. « La vie ce n’est pas de voir, c’est d’aimer », nous rappelle John Hull.
  [OASIS Transformé](https://oasis.im/transforme/)
  
  
- Conscious Existence:
+ **Conscious Existence:**
 
- **(fait par Marc Zimmermann)**
+ *(fait par Marc Zimmermann)*
  
  C’est à un voyage dans un univers visuel électrisant que nous convie Conscious Existence, une œuvre qui célèbre le pouvoir de l’émerveillement. Nous sommes de plus en plus conscients que la perspective adoptée par rapport à l’existence peut profondément altérer l’expérience vécue. Les fausses priorités, ou la peur d’oser ressentir et d’aller vers ce qui nous est bénéfique, sont autant d’entraves à notre bien-être. Dans cette omniscience qui nous fait réfléchir et découvrir les beautés du monde, l’œuvre passe successivement du gigantesque au microscopique, de l’immensité des spectaculaires montagnes enneigées aux infimes mouvements frénétiques des molécules qui forment le vivant. On nous rappelle ainsi que c’est en transformant notre regard sur le monde que celui-ci se révèle dans toute sa splendeur et que le pouvoir de se laisser émerveiller par les choses simples peut devenir une immense source d’énergie et d’inspiration.
  [OASIS Transformé](https://oasis.im/transforme/)
  
  
- Goliath:
+ **Goliath:**
  
- **(fait par Barry Gene Murphy et May Abdalla)**
+ *(fait par Barry Gene Murphy et May Abdalla)*
  
  Goliath est sans contredit l’une des œuvres les plus créatives à émerger du monde de la RV et de l’immersion. À travers le parcours d’un gamer, elle aborde le sujet encore trop tabou de la schizophrénie et des problèmes liés aux troubles psychiatriques, tout en exposant l’isolement vécu dans les milieux institutionnels. Cette expérience imaginative fait appel aux codes visuels des jeux vidéo pour illustrer la conversion d’une solitude en un réconfort trouvé dans le giron d’une communauté de gamers en ligne, où les préjugés n’existent pas. L’œuvre nous catapulte dans les nombreuses réalités de Goliath et combine des dialogues émouvants, des visuels hypnotiques et des interactions ludiques. Le récit prouve hors de tout doute l’universalité de son message de résilience pour tous ceux qui se sentent exclus du fait de leur différence.
  [OASIS Transformé](https://oasis.im/transforme/)
