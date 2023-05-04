@@ -32,7 +32,35 @@ Transformé (pièce nommé panorama)
 2022/2023 
 
 ### Description de L'oeuvre :
-Pour la première fois, une expérience immersive déambulatoire complète a été développée à partir d’œuvres initialement conçues pour les casques de réalité virtuelle. Il s’agit d’une véritable prouesse technologique réalisée sous la direction de l’équipe d’OASIS immersion, en collaboration avec quelques-uns des meilleurs talents en réalité virtuelle à l’échelle internationale. Au cœur du projet, huit récits réunis dans une expérience collective où le courage et l’empathie seront les thèmes centraux. [OASIS Transformé](https://oasis.im/transforme/?utm_term=oasis%20immersion&utm_campaign=DIG+-+%5BS%5D+-+ECOM+-+FR+-+CAN+-+Brand+-+Transform%C3%A9&utm_source=adwords&utm_medium=ppc&hsa_acc=4321666449&hsa_cam=19225434888&hsa_grp=146883843240&hsa_ad=641001229580&hsa_src=g&hsa_tgt=kwd-1715752844287&hsa_kw=oasis%20immersion&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw9J2iBhBPEiwAErwpecNUCIs_Ns07UVL-DjI32MJCSK7LdHIGoDCmeKfGXDxtoHS2VLw46BoCI2YQAvD_BwE)
+ 
+
+ Notes on Blindness:
+ 
+ **(fait par Arnaud Colinart, Amaury La Burthe, Peter Middleton et James Spinney)**
+ 
+ Notes on Blindness invite le visiteur à suivre le parcours de John Hull, un homme ayant graduellement perdu la vue en 1983. Conçue à partir d’enregistrements audio originaux, dans lesquels John Hull a recueilli ses observations et sentiments, Notes on Blindness utilise le pouvoir de l’immersion et de la spatialisation sonore pour nous transposer dans sa nouvelle réalité. Témoin de son cheminement, chaque son et chaque texture deviennent une source de fascination et de redécouverte. Notes on Blindness est une ode aux sens et à la force de l’esprit humain, un hommage au courage dans l’adversité. « La vie ce n’est pas de voir, c’est d’aimer », nous rappelle John Hull.
+ [OASIS Transformé](https://oasis.im/transforme/)
+ 
+ 
+ Conscious Existence:
+
+ **(fait par Marc Zimmermann)**
+ 
+ C’est à un voyage dans un univers visuel électrisant que nous convie Conscious Existence, une œuvre qui célèbre le pouvoir de l’émerveillement. Nous sommes de plus en plus conscients que la perspective adoptée par rapport à l’existence peut profondément altérer l’expérience vécue. Les fausses priorités, ou la peur d’oser ressentir et d’aller vers ce qui nous est bénéfique, sont autant d’entraves à notre bien-être. Dans cette omniscience qui nous fait réfléchir et découvrir les beautés du monde, l’œuvre passe successivement du gigantesque au microscopique, de l’immensité des spectaculaires montagnes enneigées aux infimes mouvements frénétiques des molécules qui forment le vivant. On nous rappelle ainsi que c’est en transformant notre regard sur le monde que celui-ci se révèle dans toute sa splendeur et que le pouvoir de se laisser émerveiller par les choses simples peut devenir une immense source d’énergie et d’inspiration.
+ [OASIS Transformé](https://oasis.im/transforme/)
+ 
+ 
+ Goliath:
+ 
+ **(fait par Barry Gene Murphy et May Abdalla)**
+ 
+ Goliath est sans contredit l’une des œuvres les plus créatives à émerger du monde de la RV et de l’immersion. À travers le parcours d’un gamer, elle aborde le sujet encore trop tabou de la schizophrénie et des problèmes liés aux troubles psychiatriques, tout en exposant l’isolement vécu dans les milieux institutionnels. Cette expérience imaginative fait appel aux codes visuels des jeux vidéo pour illustrer la conversion d’une solitude en un réconfort trouvé dans le giron d’une communauté de gamers en ligne, où les préjugés n’existent pas. L’œuvre nous catapulte dans les nombreuses réalités de Goliath et combine des dialogues émouvants, des visuels hypnotiques et des interactions ludiques. Le récit prouve hors de tout doute l’universalité de son message de résilience pour tous ceux qui se sentent exclus du fait de leur différence.
+ [OASIS Transformé](https://oasis.im/transforme/)
+ 
+ 
+ 
+ 
+ 
 
 
 
