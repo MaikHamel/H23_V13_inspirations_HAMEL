@@ -8,7 +8,7 @@ Transformé
 
 
 ### Lieu de mise en exposition (photo de moi devant lentree) :
-Oasis immersion
+Oasis immersion (Place d'armes)
 
 
 
